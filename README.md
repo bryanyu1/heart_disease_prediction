@@ -1,6 +1,6 @@
 # heart_prediction
 
-A series of supervised machine learning models were developed, predicting the probability of patients to develop heart disease. 
+A series of supervised machine learning models were developed, predicting the probability of patients to develop heart disease.
 
 The data was downloaded from Kaggle via the following link: 
 https://www.kaggle.com/fedesoriano/heart-failure-prediction?select=heart.csv 
